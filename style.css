@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: rgb(157, 243, 71);
+    color: white;
+    text-align: center;
+}
+
+button{
+    margin: 20px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.imagesr{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#buttons3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    padding: 10px;
+    background-color: rgb(75, 76, 95);
+    color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#tit{
+    color: rgb(0, 0, 0); 
+}
